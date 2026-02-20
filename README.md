@@ -5,7 +5,7 @@ This is the source code for the can satellite (cansat) project which utilizes th
 
 The cansat measures air quality by using off-the-shelf sensors which then sends the data to the ground station.
 
-The PIC32 in the ground station is responsible for wirelessly receiving data from the cansat while the ESP32 is responsible for post-processing i.e., data viewing via a dedicated local webpage.
+The PIC32 in the ground station is responsible for wirelessly receiving data from the cansat while the ESP32 is responsible for post-processing i.e., data viewing via a dedicated local webpage. For the PIC32s, everything is coded bare metal as it was a requirement to do so. 
 
 The files are currently zipped but they are ready to upload to their respective MCUs once unzipped. Codes are in C.
 
