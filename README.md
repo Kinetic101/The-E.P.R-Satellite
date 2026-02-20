@@ -1,5 +1,5 @@
 # The-E.P.R-Satellite
-This was made for partial completion of EEE 192 - EEE Laboratory V.
+This was made for partial completion of EEE 192 - EEE Laboratory VI.
 
 This is the source code for the can satellite (cansat) project which utilizes the PIC32 MCU for the cansat itself and the PIC32 and ESP32 MCUs for the ground station. 
 
