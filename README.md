@@ -7,6 +7,8 @@ The cansat measures air quality by using off-the-shelf sensors which then sends 
 
 The PIC32 in the ground station is responsible for wirelessly receiving data from the cansat while the ESP32 is responsible for post-processing i.e., data viewing via a dedicated local webpage.
 
+The files are currently zipped but they are ready to upload to their respective MCUs once unzipped.
+
 Co-developers:
 
 Christian Klein Ramos \ 
